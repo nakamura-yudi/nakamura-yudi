@@ -21,10 +21,3 @@
   <a href="www.linkedin.com/in/eduardo-yudi-nakamura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:eduardo.yudi.nakamura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-  
-### Here are some things for you to get to know me:
-- 👨‍🎓 I'm currently doing my degree in computer science.
-- 🔭 I’m currently working as a Java full-stack developer.
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about anything you want!
-- ❤💻 I'm an IT enthusiast.
